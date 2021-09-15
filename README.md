@@ -60,4 +60,4 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **Prodigy** - ** - [Prodigy](https://github.com/prodigy-dev) - *Built Orb.*
+* **Prodigy** - [Prodigy](https://github.com/prodigy-dev) - *Built Orb.*
