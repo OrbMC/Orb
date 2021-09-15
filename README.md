@@ -6,7 +6,7 @@
     An Awesome Minecraft Programming Language Written In Rust.
     <br/>
     <br/>
-    <a href="https://github.com/OrbMC/Orb"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/OrbMC/Documentation"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
     <a href="https://github.com/OrbMC/Orb/issues">Report Bug</a>
