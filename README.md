@@ -15,7 +15,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/OrbMC/Orb/total) ![Contributors](https://img.shields.io/github/contributors/OrbMC/Orb?color=dark-green) ![Issues](https://img.shields.io/github/issues/OrbMC/Orb) ![License](https://img.shields.io/github/license/OrbMC/Orb) 
+![Downloads](https://img.shields.io/github/downloads/OrbMC/Orb/total) ![Contributors](https://img.shields.io/github/contributors/OrbMC/Orb?color=dark-green) ![Issues](https://img.shields.io/github/issues/OrbMC/Orb)
 
 ## Table Of Contents
 
